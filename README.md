@@ -38,5 +38,3 @@ The dataset includes the following columns:
 - Slicers  
 - Conditional Formatting  
 - KPI Cards & Dynamic Titles
-│   └── dashboard_preview.png
-├── README.md
